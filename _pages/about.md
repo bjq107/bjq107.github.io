@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a sophomore student from Department of Computer Science and Technology at Tsinghua University. My research interest includes ....
+I'm a sophomore student from Department of Computer Science and Technology at Tsinghua University. 
 
